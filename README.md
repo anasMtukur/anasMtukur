@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anasMtukur
-- 👀 I’m interested in a bit of everything
+- 👀 I’m interested in FullStack Web Development
 - 🌱 I enjoy learning new stuff
 - 💞️ I’m looking to collaborate on open source technology
 - 📫 Reach me at anasmtukur91@gmail.com
